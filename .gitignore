@@ -1,0 +1,11 @@
+# Temporary Office lock files
+~$*
+
+# Excel / Office files (binary, not code)
+*.xlsx
+*.xls
+*.xlsm
+
+# OS files
+.DS_Store
+Thumbs.db
